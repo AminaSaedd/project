@@ -1,0 +1,178 @@
+html{
+    margin:0;
+    padding:0;
+}
+#first_header{
+background-color: #4285f4;
+border-bottom: none;
+
+}
+#mynav ul li {
+    padding: 2px;
+    margin: 3px;
+
+
+}
+#regis_ul{
+margin-left: 70% ;
+
+}
+#log_nav{
+    margin-top: 2%;
+
+   }
+#search_logo_cart{
+    margin-top: -1.9px;
+    background-color: #5591f4;
+    border-top:none;
+    color: red; 
+
+
+}
+#serach_form{
+width:600px;
+
+
+}
+#srch-term{
+    width:20%;
+    height: 50px;
+}
+#serach_button{
+ height: 50px;
+ margin-left: -15%;
+
+
+}
+
+
+#top-menu-wrap {
+    background-color: #EEE;
+}
+#top-menu-wrap li
+{
+     border:0.2px solid rgba(63, 63, 63,0.4);
+    background-color: #fff;    
+    padding:4px;
+    text-align: center;
+    min-width:120px;
+}
+#top-menu-wrap li a{
+    color:#000;
+    text-decoration: none;
+    font-size:15px;
+
+}
+#top-menu-wrap li a:hover{
+    color:#fff;
+    background-color: skyblue;
+    font-size: 15px;
+
+}
+#slider{
+    margin-top: 2%;
+    margin-left: 7%;
+    
+}
+
+#footer{
+background-color: #4285f4;
+margin-top: 10%;
+ height: 130px;
+
+
+    
+  
+}
+#footer>a{
+
+ 
+    color: #fff;
+  
+}
+#footer> div ul li>{
+
+ color: #fff;
+    margin: 1px;
+    padding: 2px;
+  width: 100%;
+  height: auto;
+  margin-left: 288%;
+}
+#footer> div ul li>a{
+
+  color: #fff;
+  font-size: 20px;
+
+  padding: 17px  12px 12px 17px;
+  margin-right: -120%
+
+    
+}
+
+#submenu> ul {
+    margin-left:  -45%;
+}
+#submenu > ul li a {
+    background-color: red;
+}
+
+#regis_cost{
+ margin-top: 10%;  }
+#regis_form{
+ margin-top: 17%;
+ border:2px solid #000;
+border-radius: 5px;
+padding: 3px;
+width: 188%;
+ margin-left: -25%;
+position: relative;
+}
+label{
+margin-left: 10%;
+font-size: 15px;
+font-weight: bold;
+}
+#lblheader{
+ margin-top: 1%;
+  text-transform:capitalize;
+ padding: 6px;
+ border:3px solid groove pink;
+ border-radius: 5px;
+ border-width: 3px;
+font-size: 25px;
+}
+
+
+option{
+font-size: 20px;
+    }
+
+
+ #login_cost{
+margin-top: 4%;
+font-size: 20px;
+font-weight: bold;
+ color: #000;
+}
+
+#login_form{
+ margin-top: 15%;
+ border:2px solid #000;
+border-radius: 5px;
+padding: 3px;
+width: 188%;
+ margin-left: -48%;
+  position: relative;
+}
+.cart_panel{
+        margin-top: 10%;
+    margin-left: 25%;
+    width: 100%; 
+  }
+  .panel-heading{
+    background-color:  #007bff;
+    color: #fff;
+  }
+
+
